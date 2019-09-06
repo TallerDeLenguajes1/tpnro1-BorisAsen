@@ -1,0 +1,57 @@
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.exe.config
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.exe
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.pdb
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\MainWindow.g.cs
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\App.g.cs
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir_MarkupCompile.cache
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir_MarkupCompile.lref
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\MainWindow.baml
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.g.resources
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1_Asen_Boris_Yamir.Properties.Resources.resources
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.csproj.GenerateResource.Cache
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.exe
+C:\Users\Alumno\Documents\2do_Parcial_Taller1\2do_Parcial_Villafanie\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.pdb
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.exe.config
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.exe
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.pdb
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.csprojAssemblyReference.cache
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\MainWindow.g.cs
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\App.g.cs
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir_MarkupCompile.cache
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir_MarkupCompile.lref
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\MainWindow.baml
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.g.resources
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1_Asen_Boris_Yamir.Properties.Resources.resources
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.csproj.GenerateResource.cache
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.csproj.CoreCompileInputs.cache
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.exe
+F:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.pdb
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.exe.config
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.exe
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.pdb
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.csprojResolveAssemblyReference.cache
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\MainWindow.g.cs
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\App.g.cs
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir_MarkupCompile.cache
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir_MarkupCompile.lref
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.exe
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.pdb
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\MainWindow.baml
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.g.resources
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1_Asen_Boris_Yamir.Properties.Resources.resources
+E:\Taller de Lenguajes II\TP1\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.csproj.GenerateResource.Cache
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.exe.config
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.exe
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.pdb
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.exe
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\bin\Debug\TP1 Asen Boris Yamir.pdb
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.csprojResolveAssemblyReference.cache
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\MainWindow.g.cs
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\App.g.cs
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir_MarkupCompile.cache
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir_MarkupCompile.lref
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\MainWindow.baml
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.g.resources
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1_Asen_Boris_Yamir.Properties.Resources.resources
+E:\Taller de Lenguajes II\TP1 Asen Boris Yamir\TP1 Asen Boris Yamir\obj\Debug\TP1 Asen Boris Yamir.csproj.GenerateResource.Cache
